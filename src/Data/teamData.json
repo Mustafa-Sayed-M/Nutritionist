@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "1",
+        "category": "Management Team",
+        "name": "Sarah Mitchell",
+        "role": "Founder and CEO"
+    },
+    {
+        "id": 2,
+        "image": "2",
+        "category": "Nutritionists and Dietitians",
+        "name": "Emily Thompson",
+        "role": "Chief Operating Officer"
+    },
+    {
+        "id": 3,
+        "image": "3",
+        "category": "Customer Support",
+        "name": "John Davis",
+        "role": "Chief Financial Officer"
+    },
+    {
+        "id": 4,
+        "image": "4",
+        "category": "Marketing and Communications",
+        "name": "Rachel Adams",
+        "role": "Chief Marketing Officer"
+    }
+]
