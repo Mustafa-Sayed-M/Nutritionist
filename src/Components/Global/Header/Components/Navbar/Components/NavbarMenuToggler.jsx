@@ -10,16 +10,16 @@ function NavbarMenuToggler() {
 
     const dispatch = useDispatch();
 
-    const { openNavbarMenu } = useSelector(state => state.app);
+    const { openMenu } = useSelector(state => state.app);
 
     const handleNavbarMenuClick = () => {
-        dispatch(handleMenu(!openNavbarMenu));
+        dispatch(handleMenu(!openMenu));
     }
 
     const { pathname } = useLocation()
 
     React.useEffect(() => {
-        if (openNavbarMenu) dispatch(handleMenu(false));
+        if (openMenu) dispatch(handleMenu(false));
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [pathname, dispatch]);
 
@@ -30,7 +30,7 @@ function NavbarMenuToggler() {
             onClick={handleNavbarMenuClick}
             className='text-3xl text-green-color-70 lg:hidden'
         >
-            <i className={`${openNavbarMenu ? xIcon : barsIcon} fa-fw`}></i>
+            <i className={`${openMenu ? xIcon : barsIcon} fa-fw`}></i>
         </button>
     )
 }
