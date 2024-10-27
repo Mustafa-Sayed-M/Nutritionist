@@ -13,10 +13,10 @@ const mainLinksList = [
 
 function NavbarLinks() {
 
-    const { openNavbarMenu } = useSelector(state => state.app);
+    const { openMenu } = useSelector(state => state.app);
 
     return (
-        <div className={`navbar-links max-lg:w-full max-lg:order-1 flex max-lg:flex-col items-center gap-2 ${!openNavbarMenu && 'max-lg:hidden'}`}>
+        <div className={`navbar-links max-lg:w-full max-lg:order-1 flex max-lg:flex-col items-center gap-2 ${!openMenu && 'max-lg:hidden'}`}>
             {/* Main Links */}
             <ul className='flex max-lg:flex-col items-center gap-2 max-lg:w-full'>
                 {mainLinksList.map((link, index) => <li key={index} className='max-lg:w-full'>
