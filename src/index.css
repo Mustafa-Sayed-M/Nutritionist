@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@utility container {
+    margin-inline: auto;
+    padding-inline: 2rem;
+}
+
+@theme {
+    /* Green Color Shades */
+    --color-green-70: #CBEA7B;
+    --color-green-75: #D3EE91;
+    --color-green-80: #DCF1A7;
+    --color-green-85: #E5F5BD;
+    --color-green-90: #EEF8D3;
+    --color-green-95: #F6FBE9;
+    --color-green-97: #FAFDF2;
+    --color-green-99: #FDFEFB;
+    /* Dark Green Color Shades */
+    --color-dark-green-15: #1A3129;
+    --color-dark-green-20: #234338;
+    --color-dark-green-25: #2C5446;
+    --color-dark-green-30: #346454;
+    --color-dark-green-40: #468671;
+    --color-dark-green-60: #79B9A4;
+    --color-dark-green-80: #BCDCD1;
+    --color-dark-green-90: #DDEDE8;
+    /* Grey Color Shades */
+    --color-grey-10: #191919;
+    --color-grey-15: #262626;
+    --color-grey-20: #333333;
+    --color-grey-30: #4C4C4D;
+    --color-grey-35: #59595A;
+    --color-grey-40: #656567;
+    --color-grey-60: #98989A;
+    --color-grey-90: #E6E6E6;
+}
+
+/* Global */
+html,
+body {
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+button {
+    cursor: pointer;
+}
+
+textarea:focus,
+input:focus,
+button:focus {
+    outline: none;
+}
+
+p {
+    font-weight: 500;
+    color: var(--color-grey-20);
+}
+
+a,
+p {
+    font-size: 14px;
+}
+
+@media (min-width: 680px) {
+
+    a,
+    p {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1024px) {
+
+    a,
+    p {
+        font-size: 18px;
+    }
+}

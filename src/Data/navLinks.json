@@ -1,0 +1,26 @@
+[
+    {
+        "to": "/",
+        "label": "Home"
+    },
+    {
+        "to": "/about",
+        "label": "About"
+    },
+    {
+        "to": "/team?category=Management-Team",
+        "label": "Team"
+    },
+    {
+        "to": "/process",
+        "label": "Process"
+    },
+    {
+        "to": "/pricing",
+        "label": "Pricing"
+    },
+    {
+        "to": "/blogs",
+        "label": "Blog"
+    }
+]

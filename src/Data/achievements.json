@@ -1,0 +1,28 @@
+{
+    "header": {
+        "title": "Company Achievements",
+        "description": "At Nutritionist, we take pride in our accomplishments and the positive impact we have made on the lives of our clients. Here are some of our notable achievements"
+    },
+    "achievements": [
+        {
+            "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757525253/Icon_qbsawf.png",
+            "title": "10,000+ Transformations",
+            "description": "Our personalized nutrition plans have helped thousands of individuals reach their weight loss goals and maintain a healthy lifestyle."
+        },
+        {
+            "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757525253/Icon-1_qj49zi.png",
+            "title": "Recognition for Excellence",
+            "description": "Nutritionist has been recognized as a leading provider of personalized nutrition coaching, receiving accolades for our innovative approach and commitment to client success."
+        },
+        {
+            "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757525253/Icon-2_jdjjpt.png",
+            "title": "Positive Client Reviews",
+            "description": "We have received numerous testimonials from satisfied clients who have experienced significant improvements in their health, weight, and overall well-being through our coaching program."
+        },
+        {
+            "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757525253/Icon-3_vztoyk.png",
+            "title": "Collaborate With Top Health Experts.",
+            "description": "Nutritionist has established partnerships with respected nutritionists, dietitians, and health experts to ensure that our clients receive the highest quality guidance and support."
+        }
+    ]
+}

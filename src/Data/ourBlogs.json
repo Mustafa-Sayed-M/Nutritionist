@@ -1,0 +1,52 @@
+{
+    "header": {
+        "title": "Our Blogs",
+        "description": "Our blog is a treasure trove of informative and engaging articles written by our team of nutritionists, dietitians, and wellness experts. Here's what you can expect from our blog."
+    },
+    "blogs": [
+        {
+            "banner": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541508/Image_u6g75x.png",
+            "category": "Weight Loss",
+            "title": "The Benefits of Hydration for Weight Loss",
+            "description": "Discover how staying hydrated can support your weight loss goals and improve overall health.",
+            "author": {
+                "avatar": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541580/Image_eop7zr.png",
+                "name": "Emily Johnson",
+                "publishedDate": "23 May 2023 - 5 min read"
+            }
+        },
+        {
+            "banner": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541508/Image-2_cwghey.png",
+            "category": "Mindful Eating",
+            "title": "Cultivating a Healthy Relationship with Food",
+            "description": "Learn how practicing mindful eating can help you develop a healthier relationship with food and improve your overall well-being.",
+            "author": {
+                "avatar": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541584/Image-2_vdsi9g.png",
+                "name": "Sarah Thompson",
+                "publishedDate": "23 May 2023 - 5 min read"
+            }
+        },
+        {
+            "banner": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541508/Image-1_y5qx5x.png",
+            "category": "Understanding Macronutrients",
+            "title": "Carbohydrates, Proteins, and Fats",
+            "description": "Get a comprehensive understanding of macronutrients and their role in your diet for optimal health and weight management.",
+            "author": {
+                "avatar": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541582/Image-1_etri4y.png",
+                "name": "Mark Wilson",
+                "publishedDate": "23 May 2023 - 5 min read"
+            }
+        },
+        {
+            "banner": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541510/Image-3_jixfca.png",
+            "category": "Healthy Snacks on the Go",
+            "title": "Quick and Nutritious Options",
+            "description": "Explore a variety of convenient and healthy snack ideas to keep you fueled throughout the day.",
+            "author": {
+                "avatar": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757541580/Image-3_rsyp4z.png",
+                "name": "Emily Johnson",
+                "publishedDate": "23 May 2023 - 5 min read"
+            }
+        }
+    ]
+}
