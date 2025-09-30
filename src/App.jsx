@@ -1,17 +1,17 @@
 import { Route, Routes } from "react-router-dom";
 
 // Pages:
-import HomePage from "@pages/HomePage";
-import NotFoundPage from "@pages/NotFoundPage";
-import AboutPage from "@pages/AboutPage";
-import TeamPage from "@pages/TeamPage";
-import ProcessPage from "@pages/ProcessPage";
-import PricingPage from "@pages/PricingPage";
-import BlogsPage from "@pages/BlogsPage";
-import ContactPage from "@pages/ContactPage";
+import HomePage from "@pages/main/HomePage";
+import NotFoundPage from "@pages/other/NotFoundPage";
+import AboutPage from "@pages/main/AboutPage";
+import TeamPage from "@pages/main/TeamPage";
+import ProcessPage from "@pages/main/ProcessPage";
+import PricingPage from "@pages/main/PricingPage";
+import BlogsPage from "@pages/main/BlogsPage";
+import ContactPage from "@pages/main/ContactPage";
 // Components:
-import Header from "@components/Layout/Header";
-import Footer from "@components/Layout/Footer";
+import Header from "@components/layout_temp/Header";
+import Footer from "@components/layout_temp/Footer";
 
 function App() {
   return (
