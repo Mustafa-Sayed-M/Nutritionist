@@ -1,6 +1,6 @@
-import CTA from "@components/common_temp/CTA";
-import HeaderInfo from "@components/common_temp/HeaderInfo";
-import WorkSteps from "@components/sections_temp/WorkSteps";
+import CTA from "@components/common/CTA";
+import HeaderInfo from "@components/common/HeaderInfo";
+import WorkSteps from "@components/sections/WorkSteps";
 
 function ProcessPage() {
     return (

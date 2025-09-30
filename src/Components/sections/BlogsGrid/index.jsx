@@ -1,4 +1,4 @@
-import Button from "@components/ui_temp/Button";
+import Button from "@components/ui/Button";
 import blogs from "@data/blogs.json";
 
 function BlogsGrid() {

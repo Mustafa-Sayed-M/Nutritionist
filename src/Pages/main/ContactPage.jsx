@@ -1,7 +1,7 @@
-import CTA from "@components/common_temp/CTA";
-import HeaderInfo from "@components/common_temp/HeaderInfo";
-import ContactForm from "@components/sections_temp/ContactForm";
-import ContactInfo from "@components/sections_temp/ContactInfo";
+import CTA from "@components/common/CTA";
+import HeaderInfo from "@components/common/HeaderInfo";
+import ContactForm from "@components/sections/ContactForm";
+import ContactInfo from "@components/sections/ContactInfo";
 
 function ContactPage() {
     return (

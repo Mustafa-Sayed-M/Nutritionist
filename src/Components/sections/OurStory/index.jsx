@@ -1,4 +1,4 @@
-import SectionHeader from "@components/common_temp/SectionHeader";
+import SectionHeader from "@components/common/SectionHeader";
 import storyData from "@data/ourStory.json";
 import StoryItem from "./StoryItem";
 

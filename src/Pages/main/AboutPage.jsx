@@ -1,7 +1,7 @@
-import CTA from "@components/common_temp/CTA";
-import HeaderInfo from "@components/common_temp/HeaderInfo";
-import Achievements from "@components/sections_temp/Achievements";
-import OurStory from "@components/sections_temp/OurStory";
+import CTA from "@components/common/CTA";
+import HeaderInfo from "@components/common/HeaderInfo";
+import Achievements from "@components/sections/Achievements";
+import OurStory from "@components/sections/OurStory";
 
 function AboutPage() {
     return (

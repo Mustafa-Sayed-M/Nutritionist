@@ -1,4 +1,4 @@
-import SectionHeader from "@components/common_temp/SectionHeader";
+import SectionHeader from "@components/common/SectionHeader";
 import blogsData from "@data/ourBlogs.json";
 import BlogCard from "./BlogCard";
 

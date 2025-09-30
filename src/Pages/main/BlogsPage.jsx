@@ -1,6 +1,6 @@
-import Categories from "@components/common_temp/Categories";
-import HeaderInfo from "@components/common_temp/HeaderInfo";
-import BlogsGrid from "@components/sections_temp/BlogsGrid";
+import Categories from "@components/common/Categories";
+import HeaderInfo from "@components/common/HeaderInfo";
+import BlogsGrid from "@components/sections/BlogsGrid";
 
 function BlogsPage() {
     return (

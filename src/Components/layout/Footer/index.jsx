@@ -1,4 +1,4 @@
-import AppLogo from "@components/ui_temp/AppLogo";
+import AppLogo from "@components/ui/AppLogo";
 import FastLinks from "./Components/FastLinks";
 import GoTop from "./Components/GoTop";
 import Copyright from "./Components/Copyright";

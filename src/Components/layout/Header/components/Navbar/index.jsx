@@ -1,6 +1,6 @@
-import AppLogo from "@components/ui_temp/AppLogo";
-import NavLinks from "./Components/NavLinks";
-import NavUtilities from "./Components/NavUtilities";
+import AppLogo from "@components/ui/AppLogo";
+import NavLinks from "./components/NavLinks";
+import NavUtilities from "./components/NavUtilities";
 
 function Navbar() {
     return (

@@ -1,7 +1,7 @@
-import HeaderInfo from "@components/common_temp/HeaderInfo";
-import ComparisonTable from "@components/sections_temp/ComparisonTable";
-import Faqs from "@components/sections_temp/Faqs";
-import Pricing from "@components/sections_temp/Pricing";
+import HeaderInfo from "@components/common/HeaderInfo";
+import ComparisonTable from "@components/sections/ComparisonTable";
+import Faqs from "@components/sections/Faqs";
+import Pricing from "@components/sections/Pricing";
 
 function PricingPage() {
     return (

@@ -10,8 +10,8 @@ import PricingPage from "@pages/main/PricingPage";
 import BlogsPage from "@pages/main/BlogsPage";
 import ContactPage from "@pages/main/ContactPage";
 // Components:
-import Header from "@components/layout_temp/Header";
-import Footer from "@components/layout_temp/Footer";
+import Header from "@components/layout/Header";
+import Footer from "@components/layout/Footer";
 
 function App() {
   return (

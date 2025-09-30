@@ -1,4 +1,4 @@
-import SectionHeader from "@components/common_temp/SectionHeader";
+import SectionHeader from "@components/common/SectionHeader";
 import testimonialsData from "@data/testimonials.json";
 import { Navigation, Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';

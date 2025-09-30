@@ -1,5 +1,5 @@
-import SectionHeader from "@components/common_temp/SectionHeader";
-import Card from "@components/ui_temp/Card";
+import SectionHeader from "@components/common/SectionHeader";
+import Card from "@components/ui/Card";
 import workStepsData from "@data/workSteps.json";
 
 function WorkSteps() {

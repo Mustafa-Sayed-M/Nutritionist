@@ -1,7 +1,7 @@
-import Categories from "@components/common_temp/Categories";
-import CTA from "@components/common_temp/CTA";
-import HeaderInfo from "@components/common_temp/HeaderInfo";
-import TeamMembers from "@components/sections_temp/TeamMembers";
+import Categories from "@components/common/Categories";
+import CTA from "@components/common/CTA";
+import HeaderInfo from "@components/common/HeaderInfo";
+import TeamMembers from "@components/sections/TeamMembers";
 
 function TeamPage() {
     return (

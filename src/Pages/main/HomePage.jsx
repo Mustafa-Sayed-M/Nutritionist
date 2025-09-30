@@ -1,8 +1,8 @@
-import OurBlogs from "@components/sections_temp/OurBlogs";
-import Features from "@components/sections_temp/Features";
-import HeroSection from "@components/sections_temp/HeroSection";
-import Pricing from "@components/sections_temp/Pricing";
-import Testimonials from "@components/sections_temp/Testimonials";
+import OurBlogs from "@components/sections/OurBlogs";
+import Features from "@components/sections/Features";
+import HeroSection from "@components/sections/HeroSection";
+import Pricing from "@components/sections/Pricing";
+import Testimonials from "@components/sections/Testimonials";
 
 function HomePage() {
     return (
